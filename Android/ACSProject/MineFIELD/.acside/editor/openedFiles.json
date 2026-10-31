@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MineFIELD/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 38827,
+          "line": 895
+        },
+        "start": {
+          "column": 0,
+          "index": 38827,
+          "line": 895
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MineFIELD/app/src/main/kotlin/com/xthan/minefield/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1566,
+          "line": 49
+        },
+        "start": {
+          "column": 0,
+          "index": 1566,
+          "line": 49
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/MineFIELD/app/src/main/assets/index.html"
+}
