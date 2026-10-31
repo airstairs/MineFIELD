@@ -12,3 +12,4 @@ cubefield revamped for windows 11 and android 14+
 
 <img src="recording.gif" style="width:220px;">    
  
+pro tip... fn f11 all airstairs exes
